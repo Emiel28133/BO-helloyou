@@ -1,4 +1,5 @@
 # BO-helloyou
 
-beroepsopdract 1 BO mediacollege amsterdam.
-extra text voor test
+ik ben Emiel,
+dit is mijn eerste opdracht voor bo
+ik heb een textbased adventure game gamaakt met het verhaal Honderd Uri's en een dwergmarmot.
